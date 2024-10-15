@@ -3,26 +3,38 @@ I designed a half adder using CMOS logic, implemented in Cadence Virtuoso with t
 
 # Schematic
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-1.png))
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Schematic.png))
 
 
 # Test Bench
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-2.png))
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Test%20bench.png))
+
+# Simulation
+
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Simulation.png))
+
 
 # Analyses and Output
 
 Truth Table.
 
-| Va | Vb | PM0 | PM1 | NM0 | NM1 | Vout |
-| ---------| ---------| ---------| ---------| ---------| ---------| ---------|
-| 0 | 0 | ON | ON | OFF | OFF | 1 |
-| 0 | 1 | ON | OFF | OFF | ON | 0 |
-| 1 | 0 | OFF | ON | ON | OFF | 0 |
-| 1 | 1 | OFF | OFF | ON | ON | 0 |
+| A | B | SUM | Carry |
+| ---------| ---------| ---------| ---------|
+| 0 | 0 | 0 | 0 |
+| 0 | 1 | 1 | 0 | 
+| 1 | 0 | 1 | 0 | 
+| 1 | 1 | 0 | 1 | 
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-3.png)
+# Output Waveform - 1
 
-# layout
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Output%20WF-1.png)
 
-![Sample Image](https://github.com/suryakiran69/CMOS-NOR-Gate-2-INPUTS-/blob/main/Img-4.png)
+
+# Output Waveform - 2
+
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Output%20WF-2.png)
+
+# Output Waveform - 3
+
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Output%20WF-3.png)
