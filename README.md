@@ -3,16 +3,16 @@ I designed a half adder using CMOS logic, implemented in Cadence Virtuoso with t
 
 # Schematic
 
-![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Schematic.png))
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Schematic.png)
 
 
 # Test Bench
 
-![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Test%20bench.png))
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Test%20bench.png)
 
 # Simulation
 
-![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Simulation.png))
+![Sample Image](https://github.com/suryakiran69/Half-Adder-using-CMOS-Logic/blob/main/Simulation.png)
 
 
 # Analyses and Output
